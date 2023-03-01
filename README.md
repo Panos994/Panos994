@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panos Foteinopoulos</h1>
-<h3 align="center">Upcoming software engineer and digital marketer from Greece.</h3>
+<h3 align="center">Upcoming software engineer and digital marketer employee from Greece.</h3>
 
 <img align="right" alt="">
 
