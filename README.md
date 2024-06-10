@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 World, I'm Panos Foteinopoulos</h1>
-<h3 align="center">Checkout my work! </h3>
+<h3 align="center">Here you can checkout my work! </h3>
 
 <img align="right" alt="">
 
