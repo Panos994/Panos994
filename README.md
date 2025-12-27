@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Let's Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/panagiotisfoteinopoulos/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-FREE_NETWORKING-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 
