@@ -10,7 +10,7 @@
 <h3 align="left">🤝 Let's Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/panagiotisfoteinopoulos/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=00a0dc" alt="LinkedIn" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0077B5&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
 </a>
 </p>
 
