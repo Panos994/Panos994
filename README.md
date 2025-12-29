@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h3 align="left">🛠️ Other Languages and Tools I'm familiar with and learning and develop:</h3>
+<h3 align="left">🛠️ Other Languages and Tools I'm familiar with and learning/develop:</h3>
 <p align="left"> 
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> 
