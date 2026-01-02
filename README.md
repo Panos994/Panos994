@@ -35,8 +35,8 @@
   <a href="https://www.w3 schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
-  <a href="https://www.jaspersoft.com/reporting-software" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tibco_jaspersoft/tibco_jaspersoft-icon.svg" alt="jasperreports" width="40" height="40"/>
+ <a href="https://www.jaspersoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JasperReports-D12E27?style=for-the-badge&logo=tibco&logoColor=white" alt="JasperReports" height="40"/>
   </a>
 </p>
 
