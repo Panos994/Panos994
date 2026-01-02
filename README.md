@@ -35,6 +35,9 @@
   <a href="https://www.w3 schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
+  <a href="https://www.jaspersoft.com/reporting-software" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tibco_jaspersoft/tibco_jaspersoft-icon.svg" alt="jasperreports" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">🛠️ Other Languages and Tools I'm familiar with and learning/develop:</h3>
